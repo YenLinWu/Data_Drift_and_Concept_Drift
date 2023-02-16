@@ -12,7 +12,7 @@
 
 為降低模型飄移發生的可能性，下列為 ChatGPT 所提供用來監控模型飄移的方法:  
 <p align="center">
-      <img src="./README_gif/Architecture_of_CRNN.png">
+      <img src="./README_Images/How_to_Detect_Model_Drift__ChatGPT_Answer.png"  width="80%" height="80%">
 </p>
 
 本專案將彙整用來偵測模型飄移的方法，且內容包含: 方法的概念解釋與 Python 程式碼範例，期望對大家在維持模型的品質能有所幫助!! :dart:
