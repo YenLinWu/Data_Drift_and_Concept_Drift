@@ -26,4 +26,4 @@
 ## 如何偵測模型飄移 How to Detect Model Drift?  
 | 方法 | 目的 |
 | ---------- | ----------- | 
-| [KL and JS Divergence](https://github.com/YenLinWu/Model_Drift/blob/dev/KL_and_JS_Divergence/README.md#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
+| [KL and JS Divergence](https://github.com/YenLinWu/Model_Drift/tree/main/KL_and_JS_Divergence#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
