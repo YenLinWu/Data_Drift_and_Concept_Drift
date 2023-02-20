@@ -19,4 +19,4 @@
 > <img width="550" src="https://raw.githubusercontent.com/YenLinWu/Model_Drift/dev/KL_and_JS_Divergence/Imgs/Data_Shift_Detection_in_KL_and_JS_Divergence.gif">
 > </p>
 
-Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift/tree/dev#%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-model-drift)
+Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift/blob/main/README.md#%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-model-drift)
