@@ -1,5 +1,5 @@
 # 模型飄移 Model Drift
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3-range.svg) 
+![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3-range.svg) 
 
 ## 作者 Author     
 <span> - &copy; 吳彥霖 Yen-Lin Wu &nbsp;
@@ -21,9 +21,9 @@
       <img src="./README_Images/How_to_Detect_Model_Drift__ChatGPT_Answer.png"  width="80%" height="80%">
 </p>
 
-本專案將彙整用來偵測模型飄移的方法，且內容包含: 方法的概念解釋與 Python 程式碼範例，期望對大家在維持模型的品質能有所幫助!! :dart:
+本專案將彙整用來偵測模型飄移的方法，內容包含: 方法的概念解釋與 Python 程式碼範例，期望對大家在維持模型的品質上能有所幫助!! :dart:
 
 ## 如何偵測模型飄移 How to Detect Model Drift?  
-| 方法 | 目的 | 日期 |
-| ---------- | ----------- | :----------- |
-| [![Colab](https://img.shields.io/badge/Kullback_Leibler_and_Jensen_Shannon_Divergence-Google_Colab-yellow.svg)]()| 數據飄移 | Feb. 17, 2023 |
+| 方法 | 目的 |
+| ---------- | ----------- | 
+| [KL and JS Divergence](https://github.com/YenLinWu/Model_Drift/blob/dev/KL_and_JS_Divergence/README.md#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
