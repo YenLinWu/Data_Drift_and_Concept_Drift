@@ -13,12 +13,12 @@
 :warning: **資料飄移**: 輸入模型的特徵變數(Feature Variable)發生變化；  
 :warning: **概念飄移**: 輸入模型的特徵變數(Feature Variable)沒有發生變化，但，特徵變數與目標變數之間的關係，隨著時間的推移發生改變。  
 <p align="center">
-      <img src="./README_Images/Model_Drift.png"  width="80%" height="80%">
+      <img src="./README_Images/Model_Drift.png"  width="75%" height="75%">
 </p>
 
 為降低模型飄移發生的可能性，下列為 ChatGPT 所提供用來監控模型飄移的方法:  
 <p align="center">
-      <img src="./README_Images/How_to_Detect_Model_Drift__ChatGPT_Answer.png"  width="80%" height="80%">
+      <img src="./README_Images/How_to_Detect_Model_Drift__ChatGPT_Answer.png"  width="75%" height="75%">
 </p>
 
 本專案將彙整用來偵測模型飄移的方法，內容包含: 方法的概念解釋與 Python 程式碼範例，期望對大家在維持模型的品質上能有所幫助!! :dart:
@@ -26,4 +26,6 @@
 ## 如何偵測模型飄移 How to Detect Model Drift?  
 | 方法 | 目的 |
 | ---------- | ----------- | 
-| [KL and JS Divergence](https://github.com/YenLinWu/Model_Drift/tree/main/KL_and_JS_Divergence#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
+| [KL and JS Divergence](./KL_and_JS_Divergence#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
+| [KS Test](./KS_Test#kolmogorov-smirnov-test) | 數據飄移 |
+
