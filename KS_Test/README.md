@@ -7,7 +7,7 @@
 
 [![Colab](https://img.shields.io/badge/Python_Script-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Model_Drift/blob/dev/KS_Test/KS_Test.ipynb)  :point_left:
 
-> Requirements : ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3-range.svg)    
+> Requirements : ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.22.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.5.3-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.10.1-range.svg)    
 
 > 範例說明:   
 > 在 2022年 3月初鎳的交易市場中，發生了前所未見的暴漲，市場將此事件稱為「妖鎳事件」。本範例將應用 2021 年起每個交易日的鎳現金結算數據，且使用 KS 檢定來觀察鎳的交易市場，在事件發生前後的時間，資料是否產生明顯的偏移現象?
