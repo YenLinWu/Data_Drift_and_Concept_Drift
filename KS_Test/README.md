@@ -1,11 +1,11 @@
 # Kolmogorov-Smirnov Test  
-> 吳彥霖 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenlinwu/)   on March 5, 2023   
+> 吳彥霖 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenlinwu/)   on March 6, 2023   
 
 在監控模型飄移(Model Drift)的方法中， KS 檢定(Kolmogorov-Smirnov Test, KS Test)可用來偵測是否發生資料飄移(Data Drift)，係一種無母數統計檢定(Nonparametric Statistics)，主要係藉由比較兩樣本的累積分佈函數(Cumulative Distribution Function, CDF)，透過計算兩 CDF 彼此之間的最大差距，推論兩樣本是否源自於同一個母體分佈。
 
 ## Python 程式碼範例    
 
-[![Colab](https://img.shields.io/badge/Python_Script-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Model_Drift/blob/dev/KS_Test/KS_Test.ipynb)  :point_left:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Model_Drift/blob/dev/KS_Test/KS_Test.ipynb)  :point_left:  
 
 > Requirements : ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.22.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.5.3-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.10.1-range.svg)    
 
@@ -28,4 +28,4 @@
 > <img width="550" src="./Imgs/Data_Drift_Detection_in_KS_Test_with_unfixed_2_sliding_windows.gif">
 > </p>
 
-Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift#%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-model-drift)
+Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift/tree/main#%E5%A6%82%E4%BD%95%E5%81%B5%E6%B8%AC%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-how-to-detect-model-drift)
