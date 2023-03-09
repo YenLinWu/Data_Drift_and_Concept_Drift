@@ -5,7 +5,7 @@
 
 ## Python 程式碼範例    
 
-[![Colab](https://img.shields.io/badge/Python_Script-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Model_Drift/blob/dev/KL_and_JS_Divergence/KL_and_JS_Divergence.ipynb)  :point_left:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Model_Drift/blob/dev/KL_and_JS_Divergence/KL_and_JS_Divergence.ipynb)  :point_left:
 
 > Requirements : ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3-range.svg)    
 
@@ -19,4 +19,4 @@
 > <img width="550" src="https://raw.githubusercontent.com/YenLinWu/Model_Drift/dev/KL_and_JS_Divergence/Imgs/Data_Shift_Detection_in_KL_and_JS_Divergence.gif">
 > </p>
 
-Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift#%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-model-drift)
+Back to [How to Detect Model Drift?](https://github.com/YenLinWu/Model_Drift/tree/main#%E5%A6%82%E4%BD%95%E5%81%B5%E6%B8%AC%E6%A8%A1%E5%9E%8B%E9%A3%84%E7%A7%BB-how-to-detect-model-drift)
