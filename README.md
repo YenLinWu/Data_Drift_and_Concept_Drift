@@ -24,8 +24,9 @@
 本專案將彙整用來偵測模型飄移的方法，內容包含: 方法的概念解釋與 Python 程式碼範例，期望對大家在維持模型的品質上能有所幫助!! :dart:
 
 ## 如何偵測模型飄移 How to Detect Model Drift?  
-| 方法 | 目的 |
-| ---------- | ----------- | 
-| [KL and JS Divergence](./KL_and_JS_Divergence#kullback-leibler-divergence--jensen-shannon-divergence) | 數據飄移 |
-| [KS Test](./KS_Test#kolmogorov-smirnov-test) | 數據飄移 |
+| 方法 | 目的 | 
+| ---------- | ----------- |
+| [KL and JS Divergence](./KL_and_JS_Divergence#kullback-leibler-divergence--jensen-shannon-divergence) | 單一特徵的數據飄移 |
+| [KS Test](./KS_Test#kolmogorov-smirnov-test) | 單一特徵的數據飄移 |
+| [Population Stability Index](./Population_Stability_Index#Population-Stability-Index) | 單一特徵的數據飄移 |
 
