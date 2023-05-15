@@ -1,5 +1,5 @@
 # 模型飄移 Model Drift
-![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3-range.svg) 
+![Python](https://img.shields.io/badge/Python-3.8.10_|_3.10.11-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6_|_1.22.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5_|_1.5.3-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2_|_3.5.3_|_3.7.1-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.7.3_|_1.10.1-range.svg)  
 
 ## 作者 Author     
 <span> - &copy; 吳彥霖 Yen-Lin Wu &nbsp;
